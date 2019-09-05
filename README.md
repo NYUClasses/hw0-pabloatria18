@@ -17,11 +17,11 @@
 
 It should look something like this: 
 
-1. Name:
-  **Pablo Atria**
+1. 
+  * **Pablo Atria**
 2. 
-  _Tomás va a morir_
+  * _Tomás va a morir_
 3.
-  [Pablo's GitHub](https://github.com/pabloatria18)
+  * [Pablo's GitHub](https://github.com/pabloatria18)
 
 Once you are done, commit your changes, and push to GitHub. 
