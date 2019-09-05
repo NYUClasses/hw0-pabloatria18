@@ -18,5 +18,3 @@
   * _Tomás va a morir_
 3.
   * [Pablo's GitHub](https://github.com/pabloatria18)
-
-Once you are done, commit your changes, and push to GitHub. 
